@@ -1,2 +1,8 @@
+<div>
+    <pre>
 <?php
-echo "hello\n";
+echo "Hello\n";
+echo __FILE__ . "\n";
+?> 
+</pre>
+</div>
